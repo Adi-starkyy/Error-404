@@ -27,10 +27,10 @@ The Pattern Highlighter works entirely locally in the browser and does not conne
 Mainly responsible for the results of the pattern detection are the mentioned detection functions. These are centrally defined in the `patternConfig` object together with information about the associated patterns in [`constants.js`](chrome/scripts/constants.js). This `patternConfig` object can be extended arbitrarily by additional patterns and functions, according to the requirements that are commented in [`constants.js`](chrome/scripts/constants.js).
 
 Currently, one detection function each is implemented for the four following patterns.
-- [Countdown]
-- [Scarcity]
-- [Social Proof]
-- [Forced Continuity]
+- Countdown
+- Scarcity
+- Social Proof
+- Forced Continuity
 
 Right now, all of the four detection functions are optimized for English websites and cannot be applied to websites in other languages.
 
