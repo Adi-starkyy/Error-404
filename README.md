@@ -8,7 +8,6 @@ This tool, developed by the informatics part of the [Error 404-project], is inte
 - [Browser Compatibility](#browser-compatibility)
 - [Installation](#installation)
 - [Libraries Used](#libraries-used)
-- [License](#license)
 
 ## Features
 - Automatic detection of dark patterns on web pages
@@ -17,7 +16,7 @@ This tool, developed by the informatics part of the [Error 404-project], is inte
 - No blocking of web page content
 - Extension icon displaying number of detected dark patterns
 - Function to individually highlight each detected dark pattern
-- Supporting multiple languages (currently English and German available)
+- Supporting multiple languages (currently English available)
 
 
 ## How it works
