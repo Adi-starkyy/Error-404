@@ -9,7 +9,6 @@ This tool, developed by the informatics part of the [Error 404-project], is inte
 - [Installation](#installation)
 - [Libraries Used](#libraries-used)
 - [License](#license)
-- [About Dapde](#about-dapde)
 
 ## Features
 - Automatic detection of dark patterns on web pages
